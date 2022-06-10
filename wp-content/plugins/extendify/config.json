@@ -1,0 +1,8 @@
+{
+    "api": {
+        "onboarding": "https://dashboard.extendify.com/api/onboarding",
+        "live": "https://dashboard.extendify.com/api",
+        "dev": "https://testing.extendify.com/api",
+        "local": "http://templates.test/api"
+    }
+}
